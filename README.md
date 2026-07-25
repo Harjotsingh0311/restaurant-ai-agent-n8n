@@ -38,7 +38,7 @@ It can:
 # 🏗️ Workflow Architecture
 
 <p align="center">
-<img src="C:\Users\kulje\OneDrive\Pictures\Samsung Gallery\Screenshots\Screenshot 2026-07-25 204537.png" width="900">
+<img src="./Screenshots/Workflow.png" alt="Workflow" width="100%">
 </p>
 
 ---
@@ -46,7 +46,7 @@ It can:
 # 💬 AI Agent Demo
 
 <p align="center">
-<img src="Screenshots/chatbot-demo.png" width="900">
+<img src="./Screenshots/chat_proff.png" alt="Chat Demo" width="100%">
 </p>
 
 ---
