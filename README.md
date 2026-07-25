@@ -38,7 +38,7 @@ It can:
 # 🏗️ Workflow Architecture
 
 <p align="center">
-<img src="Screenshots/workflow.png" width="900">
+<img src="C:\Users\kulje\OneDrive\Pictures\Samsung Gallery\Screenshots\Screenshot 2026-07-25 204537.png" width="900">
 </p>
 
 ---
